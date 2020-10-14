@@ -1,0 +1,28 @@
+MODSET: https://github.com/Malbryn/ArmaMissions/blob/master/modsets/FK_Modset_April_2020.html
+
+=== Active Addons ===
+A3_Data_F_Exp_A
+A3_Structures_F_Mil
+rhs_c_cars
+ace_compat_rhs_afrf3
+rhs_c_btr
+A3_Characters_F
+CUP_Editor_Buildings_Config
+po_factions_fic
+CUP_Editor_Plants_Config
+A3_Modules_F
+CUP_Ind_Tank
+A3_Structures_F_Enoch_Infrastructure
+A3_Structures_F_Exp_Civilian
+A3_Structures_F_Enoch_Civilian
+CUP_CAStructures_Rail
+CUP_CAStructures_Mil
+A3_Structures_F_Enoch_Military
+A3_Structures_F_Enoch_Industrial
+CUP_Misc3_Config
+CUP_CAStructures_E_Misc_Misc_Construction
+CUP_CABuildings2_Misc_Cargo
+ace_cargo
+A3_Structures_F_Ind
+A3_Structures_F
+A3_Ui_F
