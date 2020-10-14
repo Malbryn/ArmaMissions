@@ -1,4 +1,4 @@
-MODSET: MODSET: https://github.com/Malbryn/ArmaMissions/blob/master/modsets/Arma_3_Preset_DB_WW2_August_2020.html
+MODSET: https://github.com/Malbryn/ArmaMissions/blob/master/modsets/Arma_3_Preset_DB_WW2_August_2020.html
 
 === Active Addons ===
 fow_mortars_c
