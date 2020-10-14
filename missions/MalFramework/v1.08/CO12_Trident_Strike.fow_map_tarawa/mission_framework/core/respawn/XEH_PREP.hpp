@@ -1,0 +1,2 @@
+PREP(eventKilled);
+PREP(eventRespawned);
