@@ -1,0 +1,29 @@
+MODSET: https://github.com/Malbryn/ArmaMissions/blob/master/modsets/Arma_3_Preset_AC130_TEST.html
+
+=== Active Addons ===
+UK3CB_Factions_TKC
+UK3CB_Factions_TKM
+A3_Characters_F_Enoch
+A3_Modules_F
+A3_Modules_F_Curator
+A3_Soft_F_EPC
+A3_Props_F_Oldman
+A3_Props_F_Orange
+A3_Structures_F_Ind
+CUP_CAMisc
+A3_Signs_F
+A3_Structures_F_Argo
+CUP_Misc3_Config
+ace_dragging
+ace_cargo
+ace_interaction
+A3_Structures_F_EPB
+A3_Structures_F_Mil
+A3_Structures_F_EPA
+A3_Structures_F
+UK3CB_Factions_Vehicles_MTVR
+USAF_AC130U_C
+ace_parachute
+FIR_PilotCrewPack_US
+A3_Characters_F
+A3_Ui_F
