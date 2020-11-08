@@ -1,0 +1,11 @@
+MODSET: https://github.com/Malbryn/ArmaMissions/blob/master/modsets/FK_Modset_April_2020.html
+
+=== Active Addons ===
+A3_Data_F_Exp_A
+rhs_c_troops
+rhs_main
+A3_Ui_F
+A3_Structures_F_Enoch_Military
+A3_Modules_F
+A3_Characters_F
+rhs_c_a2port_air
