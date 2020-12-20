@@ -1,0 +1,34 @@
+MODSET: https://github.com/Malbryn/ArmaMissions/blob/master/modsets/Arma_3_Preset_DB_VIETNAM.html
+
+=== Active Addons ===
+uns_men_NVA_recon_65
+uns_btr_c
+uns_Type63_c
+UNS_sampan
+uns_m35_c
+uns_t34_t55_c
+uns_men_NVA_crew
+uns_vests_c
+ace_medical_treatment
+ace_medical_engine
+uns_uniforms_c
+uns_headgear_c
+ace_optics
+A3_Weapons_F
+uns_weap_c
+uns_men_NVA_65
+uns_bunkers
+uns_flags
+uns_men_VC_mainforce
+uns_static_c
+uns_men_VC_regional
+WX_Objects
+A3_Modules_F
+UNS_Village
+CUP_CAMisc
+NAM_Objects
+UNS_Buildings
+A3_Characters_F
+CSJ_UH1Gun_c
+uns_uh1d_c
+A3_Ui_F
