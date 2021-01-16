@@ -1,0 +1,35 @@
+MODSET: https://github.com/Malbryn/ArmaMissions/blob/master/modsets/Arma_3_Preset_DB_VIETNAM.html
+
+=== Active Addons ===
+UK3CB_Factions_CW_US
+uns_accessories_c
+uns_vests_c
+ace_medical_treatment
+ace_medical_engine
+uns_uniforms_c
+uns_headgear_c
+uns_men_US_1ID
+uns_weap_c
+A3_Weapons_F
+UNS_sampan
+uns_static_c
+uns_men_VC_mainforce
+A3_Modules_F
+uns_PBR_c
+plp_containers
+A3_Structures_F
+uns_flags
+plp_beachobjects
+CUP_Editor_Plants_Config
+uns_bunkers
+uns_ksobjects
+UNS_Buildings
+ace_dragging
+ace_cargo
+ace_interaction
+A3_Structures_F_EPB
+NAM_Objects
+WX_Objects
+A3_Structures_F_Exp
+A3_Ui_F
+A3_Characters_F
