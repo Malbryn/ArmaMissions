@@ -1,0 +1,20 @@
+MODSET: https://github.com/Malbryn/ArmaMissions/blob/master/modsets/FKModsetNov20.html
+
+=== Active Addons ===
+lambs_wp
+po_factions_afr
+UK3CB_Factions_Vehicles_Sedan
+ace_dragging
+ace_medical_treatment
+CUP_CAStructures_E_Misc_Misc_Garbage
+CUP_CAMisc_E_WF
+CUP_Misc3_Config
+CUP_Misc_e_Config
+CUP_Buildings_Config
+RSPN_Assets
+UK3CB_Factions_TKM
+UK3CB_Factions_TKC
+RHS_US_A2_AirImport
+ace_compat_rhs_usf3
+rhsusf_c_troops
+ace_explosives
