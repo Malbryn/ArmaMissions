@@ -1,0 +1,24 @@
+MODSET: https://github.com/Malbryn/ArmaMissions/blob/master/modsets/FKModsetNov20.html
+
+=== Active Addons ===
+rhs_c_weapons
+ace_compat_rhs_afrf3
+rhs_c_a2port_car
+UK3CB_Factions_CHC
+UK3CB_Factions_CHD
+UK3CB_Factions_Vehicles_MTLB
+rhsgref_c_a2port_armor
+lambs_wp
+UK3CB_Factions_CCM
+UK3CB_Factions_Vehicles_Ural
+rhsgref_c_vehicles_ret
+rhsgref_c_troops
+po_factions_eu
+rhs_c_a2port_air
+rhs_main
+ace_dragging
+ace_interaction
+ace_cargo
+CUP_CAStructures_E_Ind_Ind_Shed
+CUP_Misc3_Config
+CUP_CAMisc
