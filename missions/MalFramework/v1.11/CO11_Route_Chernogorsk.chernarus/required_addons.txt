@@ -1,0 +1,29 @@
+MODSET: https://github.com/Malbryn/ArmaMissions/blob/master/modsets/FKModsetNov20.html
+
+=== Active Addons ===
+rhs_c_heavyweapons
+UK3CB_Factions_CHC
+rhsgref_c_troops
+RSPN_Assets
+UK3CB_Factions_Vehicles_MTLB
+lambs_wp
+grad_trenches_functions
+grad_trenches_assets
+ace_trenches
+ace_concertina_wire
+ace_logistics_wirecutter
+ace_rearm
+ace_cargo
+CUP_CAStructuresHouse_A_Hospital
+CUP_Buildings_Config
+CUP_StandaloneTerrains_Core_Faction
+CUP_WarfareBuildings
+emr_main
+CUP_CAMisc
+CUP_Misc3_Config
+CUP_CWA_Misc
+ace_dragging
+UK3CB_Factions_CHD
+UK3CB_Factions_Vehicles_Ural
+CUP_Misc_e_Config
+rhsgref_c_vehicles_ret
