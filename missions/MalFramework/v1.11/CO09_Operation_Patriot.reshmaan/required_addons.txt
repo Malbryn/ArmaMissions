@@ -1,0 +1,25 @@
+MODSET: https://github.com/Malbryn/ArmaMissions/blob/master/modsets/FKModsetNov20.html
+
+=== Active Addons ===
+UK3CB_Factions_CHC
+UK3CB_Factions_TKC
+lambs_wp
+RSPN_Assets
+po_factions_fic
+CUP_Editor_Signs_Config
+ace_interaction
+CUP_WarfareBuildings
+CUP_CAStructures_E_Mil
+CUP_CAMisc_E_WF
+ace_rearm
+ace_concertina_wire
+ace_logistics_wirecutter
+emr_main
+CUP_Misc_e_Config
+CUP_Misc3_Config
+ace_dragging
+po_main
+UK3CB_Factions_TKA
+ace_refuel
+ace_cargo
+UK3CB_Factions_CW_US
