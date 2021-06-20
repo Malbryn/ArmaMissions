@@ -1,0 +1,29 @@
+MODSET: https://github.com/Malbryn/ArmaMissions/blob/master/modsets/FK_Modset_April_2021.html
++ Breaching Charge (https://steamcommunity.com/workshop/filedetails/?id=1314910827)
+
+=== Active Addons ===
+po_factions_me
+US_M40_Masck_NBC
+milgp_headgear_cfg
+ace_goggles
+L_ES_ES_sys
+ace_medical_treatment
+ace_medical_engine
+ace_chemlights
+ace_attach
+UK3CB_Factions_Equipment
+ace_smallarms
+ace_ballistics
+fkm_fix_vanilla
+ace_compat_rhs_usf3
+rhsusf_c_melb
+ace_rearm
+ace_dragging
+ace_cargo
+UK3CB_Factions_CHC
+UK3CB_Factions_Vehicles_Motorbikes
+po_factions_eu
+UK3CB_Factions_TKC
+FIR_AirWeaponSystem_US
+UK3CB_Factions_Vehicles_Antonov_An2
+UK3CB_Factions_Static_Bunkers
