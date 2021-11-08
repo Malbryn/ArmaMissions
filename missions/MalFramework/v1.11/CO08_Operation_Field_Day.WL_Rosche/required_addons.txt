@@ -1,0 +1,22 @@
+MODSET: https://github.com/Malbryn/ArmaMissions/blob/master/modsets/FKModsetNov20.html
+
+=== Active Addons ===
+"po_factions_eu",
+"UK3CB_Factions_Headgear",
+"UK3CB_Factions_CHC_C",
+"FIR_PilotCrewPack_US",
+"cba_xeh",
+"emr_main",
+"ace_logistics_wirecutter",
+"ace_concertina_wire",
+"ace_cargo",
+"ace_dragging",
+"CUP_Buildings_Config",
+"CUP_CAMisc_ACR_Sign_Mines",
+"CUP_Farm_WTower",
+"UK3CB_Factions_ADC_C",
+"CUP_Misc3_Config",
+"ace_realisticnames",
+"UK3CB_Factions_Static_M240",
+"UK3CB_Factions_AAF_B",
+"UK3CB_Factions_Vehicles_Tractor",
