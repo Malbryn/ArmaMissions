@@ -1,0 +1,33 @@
+MODSET: https://github.com/Malbryn/ArmaMissions/blob/master/modsets/FK_Modset_Nov_2021.html
+
+=== Active Addons ===
+rhsusf_main
+UK3CB_Factions_TKC
+lambs_wp
+UK3CB_Factions_ARD
+UK3CB_Factions_TKA
+rhsgref_c_troops
+fk_fix_rhs
+rhs_sounds
+UK3CB_Factions_Equipment
+ace_medical_treatment
+ace_medical_engine
+po_factions_eu
+ace_compat_rhs_afrf3
+rhs_c_troops
+rhs_c_weapons
+UK3CB_Factions_TKM
+po_factions_me
+rhsgref_c_weapons
+CUP_Editor_Signs_Config
+grad_trenches_functions
+grad_trenches_assets
+RHS_US_A2_AirImport
+CUP_Misc3_Config
+CUP_Misc_e_Config
+ace_dragging
+UK3CB_Factions_KDF
+po_main
+JS_JC_FA18
+UK3CB_Factions_Vehicles_MTVR
+UK3CB_Factions_CW_US
