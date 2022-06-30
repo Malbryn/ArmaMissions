@@ -1,0 +1,26 @@
+MODSET: https://github.com/Malbryn/ArmaMissions/blob/master/modsets/FK_Modset_Nov_2021.html
+
+=== Active Addons ===
+"ace_cargo",
+"CUP_Misc3_Config",
+"RHS_US_A2_AirImport",
+"ace_dragging",
+"CUP_CAMisc",
+"CUP_Misc_e_Config",
+"emr_main",
+"ace_logistics_wirecutter",
+"ace_concertina_wire",
+"rhs_c_troops",
+"rhs_c_heavyweapons",
+"rhs_c_btr",
+"ace_compat_rhs_afrf3",
+"rhs_c_kamaz",
+"rhs_c_a2port_car",
+"rhs_c_cars",
+"rhs_c_bmp",
+"rhs_c_zil131",
+"cba_modules",
+"rhs_c_trucks",
+"rhs_c_t72",
+"Desert",
+"rhs_c_a2port_air"
